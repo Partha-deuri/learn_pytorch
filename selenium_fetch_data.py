@@ -4,8 +4,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 import re
 
-        # all_links = ['https://pib.gov.in/PressReleasePage.aspx?PRID=2026363',
-        # 'https://pib.gov.in/PressReleasePage.aspx?PRID=2026357']
 for y in range(2023,2017,-1):
     for m in range(1,13):
         all_links = set()

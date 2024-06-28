@@ -36,7 +36,7 @@ int main()
         {1.0, 0.0},
         {1.0, 1.0}};
 
-    double targets[4] = {0.0, 0.0, 0.0, 1.0};
+    double targets[4] = {0.0, 1.0, 1.0, 0.0};
     
     Perceptron o,h[4];
 

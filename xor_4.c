@@ -3,7 +3,7 @@
 #include <math.h>
 
 #define LEARNING_RATE 0.1
-#define EPOCHS 1000
+#define EPOCHS 100000
 
 typedef struct
 {
